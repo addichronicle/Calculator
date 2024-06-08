@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: powderblue;
+}
+
+h1 {
+    color: black;
+}
+
+form {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+fieldset {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+legend {
+    font-weight: bold;
+    color: black;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: yellow;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
